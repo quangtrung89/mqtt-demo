@@ -45,3 +45,9 @@ app/
 │   │   Router.js
  
 ```
+
+## Screenshots
+
+[Imgur](https://i.imgur.com/Yu0jO8Y.png "Sensors List")
+
+[Imgur](https://i.imgur.com/jAnyIzz.png "Alarm triggered")
