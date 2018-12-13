@@ -1,4 +1,4 @@
-# Fullstack Assesment
+# React Native App with MQTT demo (IoT example)
 
 ### Introduction
 The Application is implemented by React Native for cross platform mobile. The Application is written by ReactJS 16.6, Redux 4.x, Redux Thunk 2.3.0, react-native-mqtt 0.1.0-beta4, and react-native-animatable 1.3.0
